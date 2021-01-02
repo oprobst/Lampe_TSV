@@ -12,6 +12,8 @@ A button triggers an interrupt for an options menu. With this, the user can dist
 
 ![photo of the sign with led](./img/sign.jpg)
 
+The code could be more elegant, but it works. :)
+
 ## Modes
 
 To change the mode, push the button on the left to switch through the differen options (visualized by a highlighted letter on the sign). 
@@ -55,7 +57,7 @@ Green Terminal (3.5mm)
 | 21 | Multi purpose output 5V with 220 Ohm resistor, eg. for LED (not connected in V1.0) |
 | 22 | +5V out |
 | 23 | GND |
-| 24 | Input Pin for Button |
+| 24 | Input pin for button. Push-up active, switch against GND to trigger |
  
 
 ## Pin out
